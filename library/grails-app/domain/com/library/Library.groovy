@@ -8,6 +8,8 @@ String book
 String student
 String librarian
 
+String toString() {"$location, $openingHours, $librarian"}
+
     static constraints = {
 
 location()

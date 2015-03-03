@@ -8,6 +8,12 @@ String tutor
 String department
 String description
 
+String toString(){
+
+"$title,$code,$department"
+
+}
+
     static constraints = {
 
 title()

@@ -9,6 +9,8 @@ Date dateBorrowed
 Date returnDate
 String student
 
+String toString() {"$title, $author, $isbn"}
+
     static constraints = {
 
 title()

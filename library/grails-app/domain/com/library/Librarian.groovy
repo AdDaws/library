@@ -8,6 +8,8 @@ String userName
 String password
 String telephone
 
+String toString() {userName}
+
     static constraints = {
 
 name()
