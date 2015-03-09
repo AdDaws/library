@@ -5,7 +5,10 @@ class Student {
 String name
 String email
 String studentId
-String course
+Course course
+Library library
+
+static hasMany=[books: Book]
 
 String toString() {name}
 

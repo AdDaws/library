@@ -7,7 +7,8 @@ String author
 String isbn
 Date dateBorrowed
 Date returnDate
-String student
+Student student
+Library library
 
 String toString() {"$title, $author, $isbn"}
 
@@ -19,6 +20,7 @@ isbn()
 dateBorrowed()
 returnDate()
 student()
+library()
 
     }
 }

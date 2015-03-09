@@ -7,13 +7,15 @@ String email
 String studentId
 String course
 
+static hasOne=[library: Library, book: Book, course: Course]
+
 String toString() {name}
 
     static constraints = {
 
 name()
 email()
-studentID()
+studentId()
 course()
 
     }
