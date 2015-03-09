@@ -7,7 +7,6 @@ String code
 String tutor
 String department
 String description
-Student student
 
 String toString(){
 
@@ -22,7 +21,6 @@ code()
 tutor()
 department()
 description()
-student()
 
     }
 }

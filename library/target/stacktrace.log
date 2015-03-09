@@ -1615,3 +1615,753 @@ Caused by: groovy.lang.MissingMethodException: No signature of method: com.libra
 Possible solutions: lock(), lock(java.io.Serializable), load(java.io.Serializable), wait(), count(), last()
 	at com.library.Library$__clinit__closure1.doCall(Library.groovy:16)
 	... 4 more
+2015-03-09 16:53:32,490 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+student.toString()== 'Adam Dawson, adam@gmail.com, b3016599, Web Systems Design, Adsetts'
+|       |         |
+|       |         false
+|       |         55 differences (16% similarity)
+|       |         Adam Dawson(-------------------------------------------------------)
+|       |         Adam Dawson(, adam@gmail.com, b3016599, Web Systems Design, Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:53:32,505 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+student.toString()== 'Adam Dawson, adam@gmail.com, b3016599, Web Systems Design, Adsetts'
+|       |         |
+|       |         false
+|       |         55 differences (16% similarity)
+|       |         Adam Dawson(-------------------------------------------------------)
+|       |         Adam Dawson(, adam@gmail.com, b3016599, Web Systems Design, Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:53:32,507 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson, adam@gmail.com, b3016599, Web Systems Design, Adsetts'
+|       |         |
+|       |         false
+|       |         55 differences (16% similarity)
+|       |         Adam Dawson(-------------------------------------------------------)
+|       |         Adam Dawson(, adam@gmail.com, b3016599, Web Systems Design, Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:53:32,508 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson, adam@gmail.com, b3016599, Web Systems Design, Adsetts'
+|       |         |
+|       |         false
+|       |         55 differences (16% similarity)
+|       |         Adam Dawson(-------------------------------------------------------)
+|       |         Adam Dawson(, adam@gmail.com, b3016599, Web Systems Design, Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:53:32,534 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson, adam@gmail.com, b3016599, Web Systems Design, Adsetts'
+|       |         |
+|       |         false
+|       |         55 differences (16% similarity)
+|       |         Adam Dawson(-------------------------------------------------------)
+|       |         Adam Dawson(, adam@gmail.com, b3016599, Web Systems Design, Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:53:32,534 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson, adam@gmail.com, b3016599, Web Systems Design, Adsetts'
+|       |         |
+|       |         false
+|       |         55 differences (16% similarity)
+|       |         Adam Dawson(-------------------------------------------------------)
+|       |         Adam Dawson(, adam@gmail.com, b3016599, Web Systems Design, Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:55:36,618 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:55:36,636 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:55:36,647 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:55:36,647 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:55:36,684 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:55:36,684 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:59:09,792 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:59:09,803 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:59:09,806 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:59:09,806 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:59:09,843 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 16:59:09,843 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()== 'Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:26)
+2015-03-09 17:02:19,479 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+        |         |
+        |         false
+        |         52 differences (16% similarity)
+        |         (cl)a(ss) (c---)o(-----)m(.l--)i(------)b(rary.-------)S(--)t(ud---)e(---)n(-----)t(--)
+        |         (Ad)a(m-) (Daws)o(n,ada)m(@gma)i(l.com,)b(3016599,Web )S(ys)t(ems D)e(sig)n(,Adse)t(ts)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:02:19,493 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+        |         |
+        |         false
+        |         52 differences (16% similarity)
+        |         (cl)a(ss) (c---)o(-----)m(.l--)i(------)b(rary.-------)S(--)t(ud---)e(---)n(-----)t(--)
+        |         (Ad)a(m-) (Daws)o(n,ada)m(@gma)i(l.com,)b(3016599,Web )S(ys)t(ems D)e(sig)n(,Adse)t(ts)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:02:19,500 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+        |         |
+        |         false
+        |         52 differences (16% similarity)
+        |         (cl)a(ss) (c---)o(-----)m(.l--)i(------)b(rary.-------)S(--)t(ud---)e(---)n(-----)t(--)
+        |         (Ad)a(m-) (Daws)o(n,ada)m(@gma)i(l.com,)b(3016599,Web )S(ys)t(ems D)e(sig)n(,Adse)t(ts)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:02:19,500 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+        |         |
+        |         false
+        |         52 differences (16% similarity)
+        |         (cl)a(ss) (c---)o(-----)m(.l--)i(------)b(rary.-------)S(--)t(ud---)e(---)n(-----)t(--)
+        |         (Ad)a(m-) (Daws)o(n,ada)m(@gma)i(l.com,)b(3016599,Web )S(ys)t(ems D)e(sig)n(,Adse)t(ts)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:02:19,529 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+        |         |
+        |         false
+        |         52 differences (16% similarity)
+        |         (cl)a(ss) (c---)o(-----)m(.l--)i(------)b(rary.-------)S(--)t(ud---)e(---)n(-----)t(--)
+        |         (Ad)a(m-) (Daws)o(n,ada)m(@gma)i(l.com,)b(3016599,Web )S(ys)t(ems D)e(sig)n(,Adse)t(ts)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:02:19,529 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+        |         |
+        |         false
+        |         52 differences (16% similarity)
+        |         (cl)a(ss) (c---)o(-----)m(.l--)i(------)b(rary.-------)S(--)t(ud---)e(---)n(-----)t(--)
+        |         (Ad)a(m-) (Daws)o(n,ada)m(@gma)i(l.com,)b(3016599,Web )S(ys)t(ems D)e(sig)n(,Adse)t(ts)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:12:18,552 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()=='Web Systems Design,WSD101,Dave Smith,Computing,This is a good course'
+|      |         |
+|      |         false
+|      |         33 differences (51% similarity)
+|      |         Web Systems Design,WSD101,(-----------)Computing(----------------------)
+|      |         Web Systems Design,WSD101,(Dave Smith,)Computing(,This is a good course)
+|      Web Systems Design,WSD101,Computing
+Web Systems Design,WSD101,Computing
+
+	at com.library.CourseSpec.test something(CourseSpec.groovy:34)
+2015-03-09 17:12:18,566 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()=='Web Systems Design,WSD101,Dave Smith,Computing,This is a good course'
+|      |         |
+|      |         false
+|      |         33 differences (51% similarity)
+|      |         Web Systems Design,WSD101,(-----------)Computing(----------------------)
+|      |         Web Systems Design,WSD101,(Dave Smith,)Computing(,This is a good course)
+|      Web Systems Design,WSD101,Computing
+Web Systems Design,WSD101,Computing
+
+	at com.library.CourseSpec.test something(CourseSpec.groovy:34)
+2015-03-09 17:12:18,569 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Web Systems Design,WSD101,Dave Smith,Computing,This is a good course'
+|      |         |
+|      |         false
+|      |         33 differences (51% similarity)
+|      |         Web Systems Design,WSD101,(-----------)Computing(----------------------)
+|      |         Web Systems Design,WSD101,(Dave Smith,)Computing(,This is a good course)
+|      Web Systems Design,WSD101,Computing
+Web Systems Design,WSD101,Computing
+
+	at com.library.CourseSpec.test something(CourseSpec.groovy:34)
+2015-03-09 17:12:18,569 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Web Systems Design,WSD101,Dave Smith,Computing,This is a good course'
+|      |         |
+|      |         false
+|      |         33 differences (51% similarity)
+|      |         Web Systems Design,WSD101,(-----------)Computing(----------------------)
+|      |         Web Systems Design,WSD101,(Dave Smith,)Computing(,This is a good course)
+|      Web Systems Design,WSD101,Computing
+Web Systems Design,WSD101,Computing
+
+	at com.library.CourseSpec.test something(CourseSpec.groovy:34)
+2015-03-09 17:12:18,602 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Web Systems Design,WSD101,Dave Smith,Computing,This is a good course'
+|      |         |
+|      |         false
+|      |         33 differences (51% similarity)
+|      |         Web Systems Design,WSD101,(-----------)Computing(----------------------)
+|      |         Web Systems Design,WSD101,(Dave Smith,)Computing(,This is a good course)
+|      Web Systems Design,WSD101,Computing
+Web Systems Design,WSD101,Computing
+
+	at com.library.CourseSpec.test something(CourseSpec.groovy:34)
+2015-03-09 17:12:18,602 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Web Systems Design,WSD101,Dave Smith,Computing,This is a good course'
+|      |         |
+|      |         false
+|      |         33 differences (51% similarity)
+|      |         Web Systems Design,WSD101,(-----------)Computing(----------------------)
+|      |         Web Systems Design,WSD101,(Dave Smith,)Computing(,This is a good course)
+|      Web Systems Design,WSD101,Computing
+Web Systems Design,WSD101,Computing
+
+	at com.library.CourseSpec.test something(CourseSpec.groovy:34)
+2015-03-09 17:18:30,727 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:18:30,737 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:18:30,743 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:18:30,743 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:18:30,782 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:18:30,782 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+student.toString()=='Adam Dawson,adam@gmail.com,b3016599,Web Systems Design,Adsetts'
+|       |         |
+|       |         false
+|       |         51 differences (17% similarity)
+|       |         Adam Dawson(---------------------------------------------------)
+|       |         Adam Dawson(,adam@gmail.com,b3016599,Web Systems Design,Adsetts)
+|       Adam Dawson
+Adam Dawson
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:30:54,581 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,23016599,Web System Desgin'
+        |         |
+        |         false
+        |         45 differences (15% similarity)
+        |         (cl)a(s----)s( -------------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Ad)a(m Daw)s(on,adam@gmail.)com(,23016599,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:30:54,594 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,23016599,Web System Desgin'
+        |         |
+        |         false
+        |         45 differences (15% similarity)
+        |         (cl)a(s----)s( -------------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Ad)a(m Daw)s(on,adam@gmail.)com(,23016599,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:30:54,601 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,23016599,Web System Desgin'
+        |         |
+        |         false
+        |         45 differences (15% similarity)
+        |         (cl)a(s----)s( -------------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Ad)a(m Daw)s(on,adam@gmail.)com(,23016599,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:30:54,602 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,23016599,Web System Desgin'
+        |         |
+        |         false
+        |         45 differences (15% similarity)
+        |         (cl)a(s----)s( -------------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Ad)a(m Daw)s(on,adam@gmail.)com(,23016599,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:30:54,633 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,23016599,Web System Desgin'
+        |         |
+        |         false
+        |         45 differences (15% similarity)
+        |         (cl)a(s----)s( -------------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Ad)a(m Daw)s(on,adam@gmail.)com(,23016599,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:30:54,633 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Adam Dawson,adam@gmail.com,23016599,Web System Desgin'
+        |         |
+        |         false
+        |         45 differences (15% similarity)
+        |         (cl)a(s----)s( -------------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Ad)a(m Daw)s(on,adam@gmail.)com(,23016599,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:32:16,524 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:32:16,537 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:32:16,540 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:32:16,540 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:32:16,572 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:32:16,572 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:36:40,159 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:36:40,176 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:36:40,178 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:36:40,178 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:36:40,228 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:36:40,228 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys Aislabie,Rhys@gmail.com,22007512,Web System Desgin'
+        |         |
+        |         false
+        |         46 differences (16% similarity)
+        |         (c-------)la(s------)s( ------)com(.library.-----)S(--)t(ud--)e(nt--)
+        |         (Rhys Ais)la(bie,Rhy)s(@gmail.)com(,22007512,Web )S(ys)t(em D)e(sgin)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:43:42,117 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Rhys,Rhys@gmail.com,22007512,Web'
+        |         |
+        |         false
+        |         29 differences (9% similarity)
+        |         (cla)s(s co---)m(.-)l(ibrary.Student---)
+        |         (Rhy)s(,Rhys@g)m(ai)l(.com,22007512,Web)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:43:42,135 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+Student.toString()=='Rhys,Rhys@gmail.com,22007512,Web'
+        |         |
+        |         false
+        |         29 differences (9% similarity)
+        |         (cla)s(s co---)m(.-)l(ibrary.Student---)
+        |         (Rhy)s(,Rhys@g)m(ai)l(.com,22007512,Web)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:43:42,140 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys,Rhys@gmail.com,22007512,Web'
+        |         |
+        |         false
+        |         29 differences (9% similarity)
+        |         (cla)s(s co---)m(.-)l(ibrary.Student---)
+        |         (Rhy)s(,Rhys@g)m(ai)l(.com,22007512,Web)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:43:42,140 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys,Rhys@gmail.com,22007512,Web'
+        |         |
+        |         false
+        |         29 differences (9% similarity)
+        |         (cla)s(s co---)m(.-)l(ibrary.Student---)
+        |         (Rhy)s(,Rhys@g)m(ai)l(.com,22007512,Web)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:43:42,188 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys,Rhys@gmail.com,22007512,Web'
+        |         |
+        |         false
+        |         29 differences (9% similarity)
+        |         (cla)s(s co---)m(.-)l(ibrary.Student---)
+        |         (Rhy)s(,Rhys@g)m(ai)l(.com,22007512,Web)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
+2015-03-09 17:43:42,188 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+Student.toString()=='Rhys,Rhys@gmail.com,22007512,Web'
+        |         |
+        |         false
+        |         29 differences (9% similarity)
+        |         (cla)s(s co---)m(.-)l(ibrary.Student---)
+        |         (Rhy)s(,Rhys@g)m(ai)l(.com,22007512,Web)
+        class com.library.Student
+
+	at com.library.StudentSpec.test toString(StudentSpec.groovy:30)
