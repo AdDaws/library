@@ -6,7 +6,6 @@ String name
 String email
 String studentId
 Course course
-Library library
 
 static hasMany=[books: Book]
 
