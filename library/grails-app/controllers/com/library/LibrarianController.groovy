@@ -103,7 +103,7 @@ def logout = {
  }
 
 def validate() {
- def user = Librarian.findByUserName(params.userName)
+ def user = Librarian.findByUserName(params.username)
  if (user && user.password == params.password){
  session.user = user
  if (params.cName)
