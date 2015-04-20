@@ -3,53 +3,51 @@
  <head>
  <meta name="layout" content="main"/>
  <title>The Library System</title>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
  </head>
 
 <body>
- <div id="welcome">
+<article>
+ <center><div id="welcome">
  <br />
  <h3>Welcome to The Library System</h3>
- <p>Lorem ipsum dolor sit amet, dolore splendide disputando sit ei. Ex eam nisl iuvaret lucilius, ei fugit deterruisset vis. Iudico aperiri adversarium in quo, tritani nusquam complectitur his at. Ne nostro habemus conclusionemque duo, ad quis doming assueverit has. Ea nostrud signiferumque nec, noster virtute complectitur per an, cum ei minim putent. Mel ut sanctus scripserit, nisl ipsum singulis quo id.</p>
- </div>
+ <p>On this system, you can add courses, students, books, libraries and librarians! FUN FUN FUN.</p>
+ </div></center>
 
 <div class="homeCell">
- <h3>Add a Course</h3>
- <p>Lorem ipsum dolor sit amet, dolore splendide disputando sit ei. Ex eam nisl iuvaret lucilius, ei fugit deterruisset vis. Iudico aperiri adversarium in quo, tritani nusquam complectitur his at. Ne nostro habemus conclusionemque duo, ad quis doming assueverit has. Ea nostrud signiferumque nec, noster virtute complectitur per an, cum ei minim putent. Mel ut sanctus scripserit, nisl ipsum singulis quo id. </p>
- <span class="buttons" >
- <g:link controller="course" action="index">Add Course</g:link>
+ <span class="buttonsindex" >
+ <center><g:link controller="course" action="index" class="fa fa-graduation-cap">     Add Course</g:link></center>
+<center><img src="http://arabtesting.com/img/course-icon.png" width="150px" height="150px"></center>
  </span>
  </div>
 
 <div class="homeCell">
- <h3>Add a Student</h3>
- <p>Lorem ipsum dolor sit amet, dolore splendide disputando sit ei. Ex eam nisl iuvaret lucilius, ei fugit deterruisset vis. Iudico aperiri adversarium in quo, tritani nusquam complectitur his at. Ne nostro habemus conclusionemque duo, ad quis doming assueverit has. Ea nostrud signiferumque nec, noster virtute complectitur per an, cum ei minim putent. Mel ut sanctus scripserit, nisl ipsum singulis quo id. </p>
- <span class="buttons" >
- <g:link controller="student" action="index">Add Student</g:link>
+ <span class="buttonsindex" >
+ <center><g:link controller="student" action="index" class="fa fa-users">     Add Student</g:link></center>
+<center><img src="https://bobstechsite.com/wp-content/uploads/2013/03/student_img3.png" width="150px" height="150px"></center>
  </span>
  </div>
 
 <div class="homeCell">
- <h3>Add a Book</h3>
- <p>Lorem ipsum dolor sit amet, dolore splendide disputando sit ei. Ex eam nisl iuvaret lucilius, ei fugit deterruisset vis. Iudico aperiri adversarium in quo, tritani nusquam complectitur his at. Ne nostro habemus conclusionemque duo, ad quis doming assueverit has. Ea nostrud signiferumque nec, noster virtute complectitur per an, cum ei minim putent. Mel ut sanctus scripserit, nisl ipsum singulis quo id. </p>
- <span class="buttons" >
- <g:link controller="book" action="index">Add Book</g:link>
+ <span class="buttonsindex" >
+ <center><g:link controller="book" action="index" class="fa fa-book">     Add Book</g:link></center>
+<center><img src="http://etheric.com/wp-content/uploads/2013/08/books-icon-512.png" width="150px" height="150px"></center>
  </span>
  </div>
 
 <div class="homeCell">
- <h3>Add a Library</h3>
- <p>Lorem ipsum dolor sit amet, dolore splendide disputando sit ei. Ex eam nisl iuvaret lucilius, ei fugit deterruisset vis. Iudico aperiri adversarium in quo, tritani nusquam complectitur his at. Ne nostro habemus conclusionemque duo, ad quis doming assueverit has. Ea nostrud signiferumque nec, noster virtute complectitur per an, cum ei minim putent. Mel ut sanctus scripserit, nisl ipsum singulis quo id. </p>
- <span class="buttons" >
- <g:link controller="library" action="index">Add Library</g:link>
+ <span class="buttonsindex" >
+ <center><g:link controller="library" action="index" class="fa fa-institution">     Add Library</g:link></center>
+<center><img src="http://www.clipartlord.com/wp-content/uploads/2012/10/library-book-cart.png" width="150px" height="150px"></center>
  </span>
  </div>
 
 <div class="homeCell">
- <h3>Add a Librarian</h3>
- <p>Lorem ipsum dolor sit amet, dolore splendide disputando sit ei. Ex eam nisl iuvaret lucilius, ei fugit deterruisset vis. Iudico aperiri adversarium in quo, tritani nusquam complectitur his at. Ne nostro habemus conclusionemque duo, ad quis doming assueverit has. Ea nostrud signiferumque nec, noster virtute complectitur per an, cum ei minim putent. Mel ut sanctus scripserit, nisl ipsum singulis quo id. </p>
- <span class="buttons" >
- <g:link controller="librarian" action="index">Add Librarian</g:link>
+ <span class="buttonsindex" >
+ <center><g:link controller="librarian" action="index" class="fa fa-user">     Add Librarian</g:link></center>
+<center><img src="http://springfieldlibrary.ca/portals/springfieldlibrary/librarian.png" width="150px" height="150px"></center>
  </span>
  </div>
+</article>
 
 

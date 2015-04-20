@@ -12,15 +12,15 @@
 		<link rel="shortcut icon" href="${assetPath(src: 'favicon.ico')}" type="image/x-icon">
 		<link rel="apple-touch-icon" href="${assetPath(src: 'apple-touch-icon.png')}">
 		<link rel="apple-touch-icon" sizes="114x114" href="${assetPath(src: 'apple-touch-icon-retina.png')}">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   		<asset:stylesheet src="application.css"/>
 		<asset:javascript src="application.js"/>
 		<g:layoutHead/>
 	</head>
 	<body>
-		<div id="grailsLogo" role="banner"><a href="http://localhost:8080/library/"><img width="200px" height="150px" src="${resource(dir: 'images', file: 'library.png')}"alt="Library"/></a>
+		<center><div id="grailsLogo" role="banner"><a href="http://localhost:8080/library/"><img width="429.5375px" height="111.2125px" src="${resource(dir: 'images', file: 'library.png')}"alt="Library"/></a></center>
 </a><g:loginToggle /></div>
 		<g:layoutBody/>
-		<div class="footer" role="contentinfo"></div>
 		<div id="spinner" class="spinner" style="display:none;"><g:message code="spinner.alt" default="Loading&hellip;"/></div>
 	</body>
 </html>
